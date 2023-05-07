@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, my name is Dzmitry  👋<h1>
-<h2 font-size="10"> from Gomel, Belarus <h2>
+<h5 > from Gomel, Belarus <h5>
+<h4>- 🌱 I’m currently learning JS, React, Node.js</h4>
 
-<h6>- 🌱 I’m currently learning JS, React, Node.js</h6>
 <h3>My stats:</h3>
 
 <div>
