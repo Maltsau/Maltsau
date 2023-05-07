@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, my name is Dzmitry  👋<h1>
 <h2 font-size="10"> from Gomel, Belarus <h2>
 
+- 🌱 I’m currently learning JS, React, Node.js
+
+My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -9,7 +12,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
