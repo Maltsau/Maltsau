@@ -3,13 +3,13 @@
 <h4>- 🌱 I’m currently learning JS, React, Node.js</h4>
 <h3> Tech Stack: </h3>
 
-<img size='50' src='/assets/icons/javascript.svg'>
-<img size='50' src='/assets/icons/typescript.svg'>
-<img size='50' src='/assets/icons/html5.svg'>
-<img size='50' src='/assets/icons/css3.svg'>
-<img size='50' src='/assets/icons/react.svg'>
-<img size='50' src='/assets/icons/github.svg'>
-<img size='50' src='/assets/icons/figma.svg'>
+<img height="50" src='/assets/icons/javascript.svg'>
+<img height="50" src='/assets/icons/typescript.svg'>
+<img height="50" src='/assets/icons/html5.svg'>
+<img height="50" src='/assets/icons/css3.svg'>
+<img height="50" src='/assets/icons/react.svg'>
+<img height="50" src='/assets/icons/github.svg'>
+<img height="50" src='/assets/icons/figma.svg'>
 
 <h3>My stats:</h3>
 
