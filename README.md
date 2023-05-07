@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, my name is Dzmitry  👋<h1>
-<h2 font-size=15px> from Gomel, Belarus <h2>
+<h2 font-size=10px> from Gomel, Belarus <h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
