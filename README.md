@@ -3,7 +3,7 @@
 <h4>- 🌱 I’m currently learning JS, React, Node.js</h4>
 <h3> Tech Stack: </h3>
 
-<div display="flex">
+<div display="flex" bacground-color="white">
 <img height="50" src='/assets/icons/javascript.svg'>
 <img height="50" src='/assets/icons/typescript.svg'>
 <img height="50" src='/assets/icons/html5.svg'>
