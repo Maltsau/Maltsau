@@ -2,10 +2,10 @@
 <h2 font-size="10"> from Gomel, Belarus <h2>
 
 - 🌱 I’m currently learning JS, React, Node.js
-<div>
+
 <h3>My stats:</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <!--
 **Maltsau/Maltsau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
