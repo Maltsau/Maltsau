@@ -16,7 +16,7 @@
 <h3>My stats:</h3>
 
 <div display="flex">
-<div width="50%">
+<div style="width:50%">
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maltsau)](https://github.com/anuraghazra/github-readme-stats) -->
 
