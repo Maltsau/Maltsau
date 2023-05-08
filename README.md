@@ -3,7 +3,7 @@
 <h4>- 🌱 I’m currently learning JS, React, Node.js</h4>
 <h3> Tech Stack: </h3>
 
-<div display="flex" backgroundColor="white">
+<div display="flex" style="bacground-color:white">
 <img height="50"  src='/assets/icons/javascript.svg'>
 <img height="50"  src='/assets/icons/typescript.svg'>
 <img height="50"  src='/assets/icons/html5.svg'>
@@ -16,7 +16,7 @@
 <h3>My stats:</h3>
 
 <div display="flex">
-<div>
+<div width="50%">
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maltsau)](https://github.com/anuraghazra/github-readme-stats) -->
 
