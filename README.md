@@ -17,8 +17,9 @@
 </div>
 
 <h3>Student projects:</h3>
-[Virtual Keyboard](https://maltsau.github.io/virtual-keyboard/)
-[Minesweeper](https://rolling-scopes-school.github.io/maltsau-JSFE2023Q1/minesweeper/)
+[Текст ссылки](https://www.example.com)
+[Virtual Keyboard] (https://maltsau.github.io/virtual-keyboard/)
+[Minesweeper] (https://rolling-scopes-school.github.io/maltsau-JSFE2023Q1/minesweeper/)
 
 <h3>My stats:</h3>
 
