@@ -1,5 +1,19 @@
 <h1 align="center">Hi there, my name is Dzmitry  👋<h1>
-<h5 > from Gomel, Belarus <h5>
+<h5 align="center"> from Gomel, Belarus <h5>
+<div align="center">
+    <a href="https://linkedin.com/in/dzmitry-maltsau-58079a251"
+        target="_blank">
+        <img src="https://img.shields.io/badge/-linkedIn%20-blue" alt="LinkedIn"></img>
+    </a>
+    <a href="mailto:emeraldwhistler.dm@gmail.com"
+        target="_blank">
+        <img src="https://img.shields.io/badge/-e--mail%20-red" alt="E-mail"></img>
+    </a>
+    <a href="https://t.me/zmitserM"
+        target="_blank">
+        <img src="https://img.shields.io/badge/-telegram%20-blue" alt="Telegram"></img>
+    </a>
+</div>
 <h4>- 🌱 I’m currently learning JS, React, Node.js</h4>
 <h3> Tech Stack: </h3>
 
