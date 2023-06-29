@@ -34,6 +34,7 @@
 
 - [Virtual Keyboard](https://maltsau.github.io/virtual-keyboard/)
 - [Minesweeper](https://rolling-scopes-school.github.io/maltsau-JSFE2023Q1/minesweeper/)
+- [RSS CSS-Selectors](https://rolling-scopes-school.github.io/maltsau-JSFE2023Q1/RSSchool-CSS-selectors/dist/)
 
 <h3>My stats:</h3>
 
